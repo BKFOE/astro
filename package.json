@@ -9,11 +9,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.5.5"
+    "@astrojs/preact": "^4.0.9",
+    "@astrojs/rss": "^4.0.11",
+    "astro": "^5.7.2",
+    "preact": "^10.26.5"
   },
   "description": "```sh npm create astro@latest -- --template minimal ```",
   "main": "index.js",
-  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
